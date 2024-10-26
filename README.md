@@ -19,5 +19,17 @@
    **Ответ от LLM:** не совсем верный и скудный  
    **Скриншот:** ![image](https://github.com/user-attachments/assets/301f787c-5ce4-4e18-a378-dc3dc1147a7b)
 
+ 5.  *«Проблема соответствий Поста»*  
+   **Ответ от LLM:** не совсем верный, содержит ошибки  
+   **Скриншот:** ![image](https://github.com/user-attachments/assets/9194cf76-d168-4c40-8186-1cc659eaaa11)
+
+      6.  *«Метод рекурсивного спуска»*  
+   **Ответ от LLM:** неверный, содержит ошибки  
+   **Скриншот:** ![image](https://github.com/user-attachments/assets/736b93be-a743-4513-9056-2d6d2039592f)
+
+7.  *«Грамматики простого предшествования»*  
+   **Ответ от LLM:** неполный, содержит ошибки  
+   **Скриншот:** ![image](https://github.com/user-attachments/assets/c1e211d3-3a77-4bdd-ae53-0e66a496929e)
+
 
 
